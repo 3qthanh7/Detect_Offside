@@ -6,7 +6,7 @@
 Đề tài sử dụng các hình ảnh được lấy từ trận "Việt Nam - Trung Quốc | Vòng loại World Cup 2022"
 ### 1.2 Công cụ
 Đề tài sử dụng:
-- Python IDE: Pycharm
+- Python IDE: [Pycharm](https://www.jetbrains.com/pycharm/).
 - Công cụ Train và Detect: [Yolov8](https://github.com/ultralytics/ultralytics.git).
 - Môi trường Train dữ liệu [Google Colaboratory](https://colab.research.google.com/).
 ## II. Custom data training
